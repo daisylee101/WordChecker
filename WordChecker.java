@@ -1,4 +1,13 @@
+import java.util.ArrayList;
 public class WordChecker {
+
+    public WordChecker(ArrayList<String> list)
+    {
+        wordList = list;
+    }
+    
+
+    
     /** Initialized in the constructor and contains no null elements */
     private ArrayList<String> wordList;
 
