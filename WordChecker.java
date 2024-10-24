@@ -5,7 +5,7 @@ public class WordChecker {
     {
         wordList = list;
     }
-    
+
 
     
     /** Initialized in the constructor and contains no null elements */
@@ -32,4 +32,5 @@ public class WordChecker {
      */
     public ArrayList<String> createList(String target) {
         /* to be implemented in part (b) */ }
+
 }
